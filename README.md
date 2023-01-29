@@ -14,10 +14,10 @@ This repo is the source code for IDS721-Project1-Cloud Continuous Delivery of Mi
 - A simple flask web app has been completed.
 - Configured continuous run through github actions
 - Dockerize application using Docker and Github Action
+- Deploy to AWS Cloud9 (EC2)
 
 ## TODO
-- Use IaC to deploy code
-- Deploy to AWS
+- Use IaC (App Runner) to deploy code
 
 ## How To Run
 1. Install `virtualenv`:
