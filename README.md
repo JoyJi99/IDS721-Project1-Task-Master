@@ -36,7 +36,7 @@ $ source env/bin/activate
 
 4. Then install the dependencies:
 ```
-$ (env) pip install -r requirements.txt
+$ (env) pip3 install -r requirements.txt
 ```
 
 5. Finally start the web server:
